@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25782" started-at="2019-12-08T14:32:34Z" finished-at="2019-12-08T14:33:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25782" started-at="2019-12-08T14:32:34Z" finished-at="2019-12-08T14:33:00Z">
+      <class name="package2.ProductPageTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:package2.ProductPageTest@27406a17]" name="before" is-config="true" duration-ms="14825" started-at="2019-12-08T20:02:35Z" finished-at="2019-12-08T20:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="verifyButtons()[pri:0, instance:package2.ProductPageTest@27406a17]" name="verifyButtons" duration-ms="360" started-at="2019-12-08T20:02:50Z" finished-at="2019-12-08T20:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyButtons -->
+        <test-method status="PASS" signature="before()[pri:0, instance:package2.ProductPageTest@27406a17]" name="before" is-config="true" duration-ms="9719" started-at="2019-12-08T20:02:50Z" finished-at="2019-12-08T20:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="verifyProdDesc()[pri:0, instance:package2.ProductPageTest@27406a17]" name="verifyProdDesc" duration-ms="113" started-at="2019-12-08T20:03:00Z" finished-at="2019-12-08T20:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProdDesc -->
+      </class> <!-- package2.ProductPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
