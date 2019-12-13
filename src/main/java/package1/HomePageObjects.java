@@ -68,7 +68,7 @@ return women;
 		return dresses.getText();
 	}
 	
-	public void clickTshirts()
+	public void clickTshirts2()
 	{
 		tshirts.click();
 	}
